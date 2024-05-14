@@ -7,3 +7,7 @@ https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messagebo
 
 createProcess
 https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createprocessw
+
+
+errorCodes
+https://learn.microsoft.com/en-us/windows/win32/debug/system-error-codes--0-499-
