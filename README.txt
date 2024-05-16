@@ -11,3 +11,6 @@ https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-process
 
 errorCodes
 https://learn.microsoft.com/en-us/windows/win32/debug/system-error-codes--0-499-
+
+virtualallocex
+https://learn.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-virtualallocex
